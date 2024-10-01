@@ -22,7 +22,8 @@
         align-items: center;
         justify-content: center;
         text-align: center;
-        height: 50%;
+
+        height: 100vh;
     }
     
     #qr-card {
